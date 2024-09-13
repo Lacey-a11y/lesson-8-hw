@@ -1,0 +1,13 @@
+body{
+    background-color: lightcyan;
+}
+h1{
+    color: darkcyan;
+    text-shadow: 2px, 2px, rgb(0, 70, 70) ;
+}
+#content{
+    border-radius: 20px;
+    border-style: dashed 2px white;
+    text-align: center;
+}
+
